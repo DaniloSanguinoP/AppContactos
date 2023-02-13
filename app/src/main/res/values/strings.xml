@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">AppContactos</string>
+    <string name="id">ID: </string>
+    <string name="nombre">Nombre: </string>
+    <string name="usuario">Nombre Usuario: </string>
+    <string name="correo">Correo: </string>
+    <string name="telefono">Telefono: </string>
+    <string name="sitioWeb">Sitio Web: </string>
+    <string name="contactos">Lista de contactos</string>
 </resources>
