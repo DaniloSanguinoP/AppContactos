@@ -9,8 +9,11 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/Theme.AppContactos"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar"
         tools:targetApi="31">
+        <activity
+            android:name=".view.ContactosActivity"
+            android:exported="true"/>
         <activity
             android:name=".view.MainActivity"
             android:exported="true">
